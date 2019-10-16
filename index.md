@@ -2,24 +2,24 @@
 title: MusicBot
 ---
 
-# Features
-* Easy to run (just make sure Java is installed, and run!)
-* Fast loading of songs
-* No external keys needed (besides a Discord Bot token)
-* Smooth playback
-* Server-specific setup for the "DJ" role that can moderate the music
-* Clean and beautiful menus
-* Channel-topic playback bar
-* Supports many sites, including Youtube, Soundcloud, and more
-* Playlist support
+# 特徴
+* 簡単に実行できます（Javaがインストールされていることを確認して実行してください！）
+* 曲の高速読み込み
+* 外部キーは必要ありません（Discordボットトークン以外）
+* スムーズな再生
+* 音楽を管理できる「DJ」ロールのサーバー固有のセットアップ
+* 清潔で美しいメニュー
+* チャンネルトピックの再生バー
+* Youtube、Soundcloudなどを含む多くのサイトをサポート
+* プレイリストのサポート
 
-# Paid Hosting
-If you would like your own, customized version of the bot without doing setup or hosting, please see our hosting page.
+# 有料ホスティング
+セットアップやホスティングを行わずに独自のカスタマイズされたバージョンのボットをご希望の場合は、ホスティングページをご覧ください。
 
-# Setup
-Please see the [Setup Page](https://github.com/jagrosh/MusicBot/wiki/Setup) in the wiki to run this bot yourself!
+# セットアップ
+このボットを自分で実行するには、wikiの[セットアップページ](https://github.com/jagrosh/MusicBot/wiki/Setup) をご覧ください！
 
-# Questions/Suggestions/Bug Reports
+# 質問/提案/バグレポート
 If you'd like to suggest changes to how the bot functions, recommend more customization options, or report bugs, feel free to either open an [Issue](https://github.com/jagrosh/MusicBot/issues) on this repository, or join [my Discord server](https://discord.gg/0p9LSGoRLu6Pet0k). If you like this bot, be sure to add a star to the libraries that make this possible: [**JDA**](https://github.com/DV8FromTheWorld/JDA) and [**lavaplayer**](https://github.com/sedmelluq/lavaplayer)
 
 # Example
